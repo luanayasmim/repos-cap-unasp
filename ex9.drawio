@@ -1,69 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T17:40:10.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="y2yCfsYEOfdFld-5iNdY" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T19:09:42.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="doVRFEiGrQjVMDuJ63zP" version="21.6.8" type="github">
   <diagram name="Página-1" id="siEfgQ1c2CDgS1Fgse-v">
-    <mxGraphModel dx="987" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-1" target="0SYdeFEbhG93ngh5ScOc-2">
+        <mxCell id="jF6iU3gwVqc99lTMViSJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-1" target="jF6iU3gwVqc99lTMViSJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="361" y="40" width="106" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-2" target="0SYdeFEbhG93ngh5ScOc-3">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0SYdeFEbhG93ngh5ScOc-2" target="0SYdeFEbhG93ngh5ScOc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-2" value="c, n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-2" value="c, n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-3" target="0SYdeFEbhG93ngh5ScOc-4">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0SYdeFEbhG93ngh5ScOc-3" target="0SYdeFEbhG93ngh5ScOc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-13" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0SYdeFEbhG93ngh5ScOc-5">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-13" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0SYdeFEbhG93ngh5ScOc-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1314" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-3" target="0SYdeFEbhG93ngh5ScOc-15">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0SYdeFEbhG93ngh5ScOc-3" target="0SYdeFEbhG93ngh5ScOc-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-23" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0SYdeFEbhG93ngh5ScOc-21">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-23" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0SYdeFEbhG93ngh5ScOc-21" vertex="1" connectable="0">
           <mxGeometry x="-0.1401" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-3" value="n&amp;gt; 50" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-3" value="n&amp;gt; 50" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="374" y="405" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-4" target="0SYdeFEbhG93ngh5ScOc-7">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0SYdeFEbhG93ngh5ScOc-4" target="0SYdeFEbhG93ngh5ScOc-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-4" value="salario = 50 * 10&lt;br&gt;e = (n - 50) * 20&lt;br&gt;totalSalario = salario + e" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514" y="245" width="206" height="90" as="geometry" />
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-4" value="salario = 50 * 10&lt;br&gt;e = (n - 50) * 20&lt;br&gt;totalSalario = salario + e" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="518" y="400" width="206" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-7" target="0SYdeFEbhG93ngh5ScOc-9">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0SYdeFEbhG93ngh5ScOc-7" target="0SYdeFEbhG93ngh5ScOc-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-7" value="O salário é de R$ salario.&lt;br&gt;O salário excedente é de R$ e&lt;br&gt;O total a receber é de R$ totalSalario" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="516" y="565" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-9" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="740" width="106" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0SYdeFEbhG93ngh5ScOc-15" target="0SYdeFEbhG93ngh5ScOc-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-7" value="O salário é de R$ salario.&lt;br&gt;O salário excedente é de R$ e&lt;br&gt;O total a receber é de R$ totalSalario" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="512" y="410" width="210" height="120" as="geometry" />
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-15" value="salario = n* 10&lt;br&gt;e = 0" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="104" y="400" width="206" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-9" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="564" y="580" width="106" height="70" as="geometry" />
+        <mxCell id="jF6iU3gwVqc99lTMViSJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-17" target="0SYdeFEbhG93ngh5ScOc-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="775" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-15" target="0SYdeFEbhG93ngh5ScOc-17">
+        <mxCell id="0SYdeFEbhG93ngh5ScOc-17" value="O salário é de R$ salario.&lt;br&gt;Não há salario excedente" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="102" y="565" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jF6iU3gwVqc99lTMViSJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jF6iU3gwVqc99lTMViSJ-2" target="0SYdeFEbhG93ngh5ScOc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-15" value="salario = n* 10&lt;br&gt;e = 0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="245" width="206" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0SYdeFEbhG93ngh5ScOc-17" target="0SYdeFEbhG93ngh5ScOc-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-17" value="O salário é de R$ salario.&lt;br&gt;Não há salario excedente" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="410" width="210" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="0SYdeFEbhG93ngh5ScOc-18" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="580" width="106" height="70" as="geometry" />
+        <mxCell id="jF6iU3gwVqc99lTMViSJ-2" value="Informe o código e a quantidade de horas trabalhadas do funcionário" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="150" width="162" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
