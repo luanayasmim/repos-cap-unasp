@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T17:13:45.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" version="21.6.8" etag="_JC786mClV621cFAnIT8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T17:23:44.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="1sYam-sEkr5kTSwlddMd" version="21.6.8" type="github">
   <diagram name="Página-1" id="g3DoRkvwnrzI3cI8s2MU">
-    <mxGraphModel>
+    <mxGraphModel dx="1398" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ArYf_KiOFfN-6vpUb2s-1" target="4ArYf_KiOFfN-6vpUb2s-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ArYf_KiOFfN-6vpUb2s-2" target="4ArYf_KiOFfN-6vpUb2s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-2" value="eleitores, brancos, nulos, validos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="160" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ArYf_KiOFfN-6vpUb2s-3" target="4ArYf_KiOFfN-6vpUb2s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-3" value="pBrancos = (eleitores * brancos) / 100,&lt;br&gt;pNulos = (eleitores * nulos) / 100,&lt;br&gt;pValidos = (eleitores * validos) / 100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="300" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ArYf_KiOFfN-6vpUb2s-4" target="4ArYf_KiOFfN-6vpUb2s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-4" value="Percentual de votos obtidos foram:&lt;br&gt;brancos: pBrancos%;&lt;br&gt;nulos: pNulos%;&lt;br&gt;válidos: pValidos.&lt;br&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="480" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4ArYf_KiOFfN-6vpUb2s-6" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="640" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
